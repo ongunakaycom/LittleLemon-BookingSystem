@@ -7,16 +7,16 @@ This project implements a booking system database for Little Lemon restaurant. I
 
 ## Contents
 
-### SQL/
+### SQL
 Contains all SQL scripts to create tables, stored procedures, and sample queries for the Little Lemon database.
 
-### Diagrams/
+### Diagrams
 ER diagrams and MySQL Workbench data models showing table relationships and design.
 
-### Data/
+### Data
 Sample data files used to populate the database (Excel and CSV formats).
 
-### Visualizations/
+### Visualizations
 Screenshots of Tableau dashboards and charts created to analyze the data.
 
 ### Notebooks/
